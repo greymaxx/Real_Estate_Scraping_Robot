@@ -2,7 +2,7 @@
 Real Estate Data Scraping through www.zillow.com
 
 
-1. The robot will provide an input dialouge to the user to enter a city name in the United States
+1. The robot will provide an input dialogue to the user to enter a city name in the United States
 2. The robot will open up Zillow, which is a property website using incognito google browser
 3. The website will process the city name and find properties for sale, and it'll to a further filter to only search for houses that are for sale
 4. Then it will automatically start scraping the listing data in the background
